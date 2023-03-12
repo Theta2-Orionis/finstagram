@@ -1,0 +1,14 @@
+header {
+    background-color: black;
+    color: aqua;
+}
+body {
+    background-color: gold;
+    color: darkblue;
+}
+
+main {
+    background-color: palegoldenrod;
+    color: darkviolet;
+    padding: 50px;
+}
